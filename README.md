@@ -1,4 +1,4 @@
-#  Your collection items random choices from Discogs.com.
+#  choose at random from your collection on Discogs.com
 Random release ID(with gets artist name, titles and thumbnail url) choice from your Discogs.com collections.   
 Release ID get from your collections(Access to API. 1 access retrieve max 100 items.),Random choices from the results.   
    
